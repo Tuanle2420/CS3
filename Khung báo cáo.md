@@ -1,4 +1,5 @@
 1. Cấu trúc báo cáo chuẩn
+
 Thông tin chung: tên báo cáo, người điều tra, thời gian điều tra, phạm vi (web, jump, mail, DC, VPN), nguồn dữ liệu (các index/sourcetype trong Splunk).
 Tóm tắt điều hành: 5–7 dòng: chuyện gì đã xảy ra, từ khi nào, kẻ tấn công vào bằng đường nào, gây ảnh hưởng gì, mức độ nghiêm trọng. Phần này viết sau cùng nhưng đặt lên đầu.
 Quá trình điều tra chi tiết: các bước 1, 2, 3… Đây là phần chiếm nhiều điểm nhất.
