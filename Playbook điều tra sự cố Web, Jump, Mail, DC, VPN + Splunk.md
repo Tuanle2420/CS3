@@ -1,6 +1,5 @@
 # Playbook điều tra sự cố: Web, Jump, Mail, DC, VPN + Splunk
 
-Nov 21, 2026 · @Tuanle
 
 ## 0. Cách dùng playbook
 
