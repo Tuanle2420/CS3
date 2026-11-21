@@ -8,6 +8,7 @@ Danh sách IOC: IP, domain, hash, tên file, tài khoản.
 Mapping MITRE ATT&CK.
 Đánh giá ảnh hưởng.
 Đề xuất xử lý và khắc phục: ngăn chặn, loại bỏ, phục hồi, phòng ngừa.
+
 2. Cách viết mỗi bước điều tra
 
 Mỗi bước nên viết theo 5 ý cố định:
